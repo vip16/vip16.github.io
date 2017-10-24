@@ -5,9 +5,9 @@
   <subtitle>青葱岁月，时光荏苒</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://vip16.github.io/"/>
   <updated>2017-10-24T08:54:19.359Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://vip16.github.io/</id>
   
   <author>
     <name>Zaccheo</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Ubuntu16.04安装Ghost傻瓜教程</title>
-    <link href="http://yoursite.com/2017/10/24/test/"/>
-    <id>http://yoursite.com/2017/10/24/test/</id>
+    <link href="http://vip16.github.io/2017/10/24/test/"/>
+    <id>http://vip16.github.io/2017/10/24/test/</id>
     <published>2017-10-24T08:07:46.000Z</published>
     <updated>2017-10-24T08:54:19.359Z</updated>
     
@@ -34,19 +34,19 @@
     
     </summary>
     
-      <category term="Ghost" scheme="http://yoursite.com/categories/Ghost/"/>
+      <category term="Ghost" scheme="http://vip16.github.io/categories/Ghost/"/>
     
-      <category term="入门教程" scheme="http://yoursite.com/categories/Ghost/%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/"/>
+      <category term="入门教程" scheme="http://vip16.github.io/categories/Ghost/%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/"/>
     
     
-      <category term="Ghost" scheme="http://yoursite.com/tags/Ghost/"/>
+      <category term="Ghost" scheme="http://vip16.github.io/tags/Ghost/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/10/24/hello-world/"/>
-    <id>http://yoursite.com/2017/10/24/hello-world/</id>
+    <link href="http://vip16.github.io/2017/10/24/hello-world/"/>
+    <id>http://vip16.github.io/2017/10/24/hello-world/</id>
     <published>2017-10-24T04:12:53.188Z</published>
     <updated>2017-10-24T08:58:27.261Z</updated>
     
@@ -61,12 +61,12 @@
     
     </summary>
     
-      <category term="hexo" scheme="http://yoursite.com/categories/hexo/"/>
+      <category term="hexo" scheme="http://vip16.github.io/categories/hexo/"/>
     
-      <category term="入门教程" scheme="http://yoursite.com/categories/hexo/%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/"/>
+      <category term="入门教程" scheme="http://vip16.github.io/categories/hexo/%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/"/>
     
     
-      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+      <category term="hexo" scheme="http://vip16.github.io/tags/hexo/"/>
     
   </entry>
   
