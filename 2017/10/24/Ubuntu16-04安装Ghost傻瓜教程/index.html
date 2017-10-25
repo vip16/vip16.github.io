@@ -32,7 +32,7 @@
 <link rel="stylesheet" href="/css/pages/post.css">
 <link rel="stylesheet" href="//cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="/css/thirdParty/highlight/github.css">
-<link rel="stylesheet" href="/.css">
+<link rel="stylesheet" href="/css/pages/comments.css">
 
     <!--script-->
 
@@ -54,6 +54,23 @@
 
 <!--<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>-->
 
+
+<script src="/js/thirdParty/gitment.browser.min.js"></script>
+<script>
+  var labels = "hexo,gitment";
+  labels = labels.split(",");
+  var gitment = new Gitment({
+    id: window.location.pathname,
+    owner: "vip16",
+    repo: "vip16.github.io",
+    oauth: {
+      client_id: "c9f9358a2c93472bce8d",
+      client_secret: "cf780aa8fd0b73154c169883603bc2cef0aafd00"
+    },
+    perPage: "20",
+    labels: labels
+  });
+</script>
 
     
     
@@ -285,24 +302,9 @@
     <div id="comments">
         
 
-<div id="disqus_thread"></div>
 <script>
-    var shortName = 'for_hexo'
-
-    var disqus_config = function () {
-     this.page.url = 'http://vip16.github.io/2017/10/24/Ubuntu16-04安装Ghost傻瓜教程/';  // Replace PAGE_URL with your page's canonical URL variable
-     this.page.identifier = 'post'+'-2017/10/24/Ubuntu16-04安装Ghost傻瓜教程/'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-     };
-    (function() { // DON'T EDIT BELOW THIS LINE
-        var d = document, s = d.createElement('script');
-        s.src = '//'+shortName+'.disqus.com/embed.js';
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
+  gitment.render(document.getElementById("comments"));
 </script>
-<script id="dsq-count-scr" src="//for_hexo.disqus.com/count.js" async></script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-
 
 
 
