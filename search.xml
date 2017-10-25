@@ -25,9 +25,11 @@
         
         <categories>
             
-            <category> Ghost </category>
+            <category> 教程 </category>
             
-            <category> 入门教程 </category>
+            <category> 博客搭建 </category>
+            
+            <category> Ghost </category>
             
         </categories>
         
@@ -35,6 +37,8 @@
         <tags>
             
             <tag> Ghost </tag>
+            
+            <tag> Ubuntu </tag>
             
         </tags>
         
