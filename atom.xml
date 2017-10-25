@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://vip16.github.io/"/>
-  <updated>2017-10-25T03:13:04.647Z</updated>
+  <updated>2017-10-24T11:38:27.871Z</updated>
   <id>http://vip16.github.io/</id>
   
   <author>
@@ -15,20 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>test</title>
-    <link href="http://vip16.github.io/2017/10/25/test/"/>
-    <id>http://vip16.github.io/2017/10/25/test/</id>
-    <published>2017-10-25T03:13:04.000Z</published>
-    <updated>2017-10-25T03:13:04.647Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>Ubuntu16.04安装Ghost傻瓜教程</title>
