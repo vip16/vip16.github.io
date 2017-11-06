@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://vip16.github.io/"/>
-  <updated>2017-11-06T09:13:25.974Z</updated>
+  <updated>2017-11-06T09:15:15.661Z</updated>
   <id>http://vip16.github.io/</id>
   
   <author>
@@ -21,15 +21,15 @@
     <link href="http://vip16.github.io/2017/11/06/Hexo%E5%91%BD%E4%BB%A4%E5%A4%87%E5%BF%98/"/>
     <id>http://vip16.github.io/2017/11/06/Hexo命令备忘/</id>
     <published>2017-11-06T08:58:45.000Z</published>
-    <updated>2017-11-06T09:13:25.974Z</updated>
+    <updated>2017-11-06T09:15:15.661Z</updated>
     
-    <content type="html"><![CDATA[<p>###新建文章<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">hexo new [layout] &lt;title&gt;</div></pre></td></tr></table></figure></p><p>您可以在命令中指定文章的布局（layout），默认为 post，可以通过修改 _config.yml 中的 default_layout 参数来指定默认布局。</p><p>布局（Layout）</p><p>Hexo 有三种默认布局：post、page 和 draft，它们分别对应不同的路径，而您自定义的其他布局和 post 相同，都将储存到 source/_posts 文件夹。</p><p>###清理、生成、发布<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">hexo clean &amp; hexo g &amp; hexo d</div></pre></td></tr></table></figure></p>]]></content>
+    <content type="html"><![CDATA[<h3 id="新建文章"><a href="#新建文章" class="headerlink" title="新建文章"></a>新建文章</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">hexo new [layout] &lt;title&gt;</div></pre></td></tr></table></figure><p>您可以在命令中指定文章的布局（layout），默认为 post，可以通过修改 _config.yml 中的 default_layout 参数来指定默认布局。</p><p>布局（Layout）</p><p>Hexo 有三种默认布局：post、page 和 draft，它们分别对应不同的路径，而您自定义的其他布局和 post 相同，都将储存到 source/_posts 文件夹。</p><h3 id="清理、生成、发布"><a href="#清理、生成、发布" class="headerlink" title="清理、生成、发布"></a>清理、生成、发布</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">hexo clean &amp; hexo g &amp; hexo d</div></pre></td></tr></table></figure>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;###新建文章&lt;br&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;d
+        &lt;h3 id=&quot;新建文章&quot;&gt;&lt;a href=&quot;#新建文章&quot; class=&quot;headerlink&quot; title=&quot;新建文章&quot;&gt;&lt;/a&gt;新建文章&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre
       
     
     </summary>

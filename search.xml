@@ -5,12 +5,11 @@
     <entry>
         <title><![CDATA[Hexo命令备忘]]></title>
         <url>http://vip16.github.io/2017/11/06/Hexo%E5%91%BD%E4%BB%A4%E5%A4%87%E5%BF%98/</url>
-        <content type="html"><![CDATA[<p>###新建文章<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">hexo new [layout] &lt;title&gt;</div></pre></td></tr></table></figure></p>
+        <content type="html"><![CDATA[<h3 id="新建文章"><a href="#新建文章" class="headerlink" title="新建文章"></a>新建文章</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">hexo new [layout] &lt;title&gt;</div></pre></td></tr></table></figure>
 <p>您可以在命令中指定文章的布局（layout），默认为 post，可以通过修改 _config.yml 中的 default_layout 参数来指定默认布局。</p>
 <p>布局（Layout）</p>
 <p>Hexo 有三种默认布局：post、page 和 draft，它们分别对应不同的路径，而您自定义的其他布局和 post 相同，都将储存到 source/_posts 文件夹。</p>
-<p>###清理、生成、发布<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">hexo clean &amp; hexo g &amp; hexo d</div></pre></td></tr></table></figure></p>
-]]></content>
+<h3 id="清理、生成、发布"><a href="#清理、生成、发布" class="headerlink" title="清理、生成、发布"></a>清理、生成、发布</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">hexo clean &amp; hexo g &amp; hexo d</div></pre></td></tr></table></figure>]]></content>
         
         <categories>
             
