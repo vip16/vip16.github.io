@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://vip16.github.io/"/>
-  <updated>2017-11-06T08:51:28.464Z</updated>
+  <updated>2017-11-06T09:00:27.548Z</updated>
   <id>http://vip16.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo命令备忘</title>
+    <link href="http://vip16.github.io/2017/11/06/Hexo%E5%91%BD%E4%BB%A4%E5%A4%87%E5%BF%98/"/>
+    <id>http://vip16.github.io/2017/11/06/Hexo命令备忘/</id>
+    <published>2017-11-06T08:58:45.000Z</published>
+    <updated>2017-11-06T09:00:27.548Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="教程" scheme="http://vip16.github.io/categories/%E6%95%99%E7%A8%8B/"/>
+    
+      <category term="Hexo" scheme="http://vip16.github.io/categories/%E6%95%99%E7%A8%8B/Hexo/"/>
+    
+      <category term="备忘" scheme="http://vip16.github.io/categories/%E6%95%99%E7%A8%8B/Hexo/%E5%A4%87%E5%BF%98/"/>
+    
+    
+      <category term="Hexo" scheme="http://vip16.github.io/tags/Hexo/"/>
+    
+      <category term="命令" scheme="http://vip16.github.io/tags/%E5%91%BD%E4%BB%A4/"/>
+    
+  </entry>
   
   <entry>
     <title>Ubuntu16.04安装Ghost傻瓜教程</title>

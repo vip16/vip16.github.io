@@ -3,6 +3,32 @@
     
     
     <entry>
+        <title><![CDATA[Hexo命令备忘]]></title>
+        <url>http://vip16.github.io/2017/11/06/Hexo%E5%91%BD%E4%BB%A4%E5%A4%87%E5%BF%98/</url>
+        <content type="html"></content>
+        
+        <categories>
+            
+            <category> 教程 </category>
+            
+            <category> Hexo </category>
+            
+            <category> 备忘 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+            <tag> 命令 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
         <title><![CDATA[Ubuntu16.04安装Ghost傻瓜教程]]></title>
         <url>http://vip16.github.io/2017/10/24/Ubuntu16-04%E5%AE%89%E8%A3%85Ghost%E5%82%BB%E7%93%9C%E6%95%99%E7%A8%8B/</url>
         <content type="html"><![CDATA[<h3 id="添加nodejs源并安装nodejs"><a href="#添加nodejs源并安装nodejs" class="headerlink" title="添加nodejs源并安装nodejs"></a>添加nodejs源并安装nodejs</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -</div><div class="line">apt-get install -y nodejs</div></pre></td></tr></table></figure>
