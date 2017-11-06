@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://vip16.github.io/"/>
-  <updated>2017-11-06T09:24:32.448Z</updated>
+  <updated>2017-11-06T12:08:41.479Z</updated>
   <id>http://vip16.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://vip16.github.io/2017/11/06/Markdown%E5%91%BD%E4%BB%A4%E5%A4%87%E5%BF%98/"/>
     <id>http://vip16.github.io/2017/11/06/Markdown命令备忘/</id>
     <published>2017-11-06T09:22:05.000Z</published>
-    <updated>2017-11-06T09:24:32.448Z</updated>
+    <updated>2017-11-06T12:08:41.479Z</updated>
     
     <content type="html"><![CDATA[<p><a href="http://www.ituring.com.cn/article/23" target="_blank" rel="external">怎样使用Markdown</a></p><p><a href="http://wowubuntu.com/markdown/basic.html" target="_blank" rel="external">简明版 Markdown 语法说明(简体中文版)</a></p>]]></content>
     
@@ -39,8 +39,6 @@
     
       <category term="Markdown" scheme="http://vip16.github.io/categories/%E6%95%99%E7%A8%8B/Markdown/"/>
     
-      <category term="备忘" scheme="http://vip16.github.io/categories/%E6%95%99%E7%A8%8B/Markdown/%E5%A4%87%E5%BF%98/"/>
-    
     
       <category term="Markdown" scheme="http://vip16.github.io/tags/Markdown/"/>
     
@@ -53,7 +51,7 @@
     <link href="http://vip16.github.io/2017/11/06/Hexo%E5%91%BD%E4%BB%A4%E5%A4%87%E5%BF%98/"/>
     <id>http://vip16.github.io/2017/11/06/Hexo命令备忘/</id>
     <published>2017-11-06T08:58:45.000Z</published>
-    <updated>2017-11-06T09:16:05.612Z</updated>
+    <updated>2017-11-06T12:08:37.584Z</updated>
     
     <content type="html"><![CDATA[<h3 id="新建"><a href="#新建" class="headerlink" title="新建"></a>新建</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">hexo new [layout] &lt;title&gt;</div></pre></td></tr></table></figure><h3 id="发布"><a href="#发布" class="headerlink" title="发布"></a>发布</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">hexo clean &amp; hexo g &amp; hexo d</div></pre></td></tr></table></figure>]]></content>
     
@@ -70,8 +68,6 @@
     
       <category term="Hexo" scheme="http://vip16.github.io/categories/%E6%95%99%E7%A8%8B/Hexo/"/>
     
-      <category term="备忘" scheme="http://vip16.github.io/categories/%E6%95%99%E7%A8%8B/Hexo/%E5%A4%87%E5%BF%98/"/>
-    
     
       <category term="Hexo" scheme="http://vip16.github.io/tags/Hexo/"/>
     
@@ -84,7 +80,7 @@
     <link href="http://vip16.github.io/2017/10/24/Ubuntu16-04%E5%AE%89%E8%A3%85Ghost%E5%82%BB%E7%93%9C%E6%95%99%E7%A8%8B/"/>
     <id>http://vip16.github.io/2017/10/24/Ubuntu16-04安装Ghost傻瓜教程/</id>
     <published>2017-10-24T11:37:59.640Z</published>
-    <updated>2017-11-06T08:51:28.464Z</updated>
+    <updated>2017-11-06T12:08:33.632Z</updated>
     
     <content type="html"><![CDATA[<h3 id="添加nodejs源并安装nodejs"><a href="#添加nodejs源并安装nodejs" class="headerlink" title="添加nodejs源并安装nodejs"></a>添加nodejs源并安装nodejs</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -</div><div class="line">apt-get install -y nodejs</div></pre></td></tr></table></figure><h3 id="添加yarn源到ubuntu源中"><a href="#添加yarn源到ubuntu源中" class="headerlink" title="添加yarn源到ubuntu源中"></a>添加yarn源到ubuntu源中</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -</div><div class="line"><span class="built_in">echo</span> <span class="string">"deb https://dl.yarnpkg.com/debian/ stable main"</span> | sudo tee /etc/apt/sources.list.d/yarn.list</div></pre></td></tr></table></figure><h3 id="安装yarn"><a href="#安装yarn" class="headerlink" title="安装yarn"></a>安装yarn</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">apt-get update &amp;&amp; sudo apt-get install yarn</div></pre></td></tr></table></figure><h3 id="添加用户ghost"><a href="#添加用户ghost" class="headerlink" title="添加用户ghost"></a>添加用户ghost</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">adduser ghost</div></pre></td></tr></table></figure><h3 id="给ghost赋予管理员权限"><a href="#给ghost赋予管理员权限" class="headerlink" title="给ghost赋予管理员权限"></a>给ghost赋予管理员权限</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">usermod -aG sudo ghost</div></pre></td></tr></table></figure><h3 id="切换到ghost用户"><a href="#切换到ghost用户" class="headerlink" title="切换到ghost用户"></a>切换到ghost用户</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">su ghost</div></pre></td></tr></table></figure><h3 id="安装nginx"><a href="#安装nginx" class="headerlink" title="安装nginx"></a>安装nginx</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">sudo apt install nginx -y</div></pre></td></tr></table></figure><h3 id="安装sqlite3"><a href="#安装sqlite3" class="headerlink" title="安装sqlite3"></a>安装sqlite3</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">sudo apt install sqlite3 -y</div></pre></td></tr></table></figure><h3 id="安装ghost-cli"><a href="#安装ghost-cli" class="headerlink" title="安装ghost-cli"></a>安装ghost-cli</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">sudo npm install -g ghost-cli</div></pre></td></tr></table></figure><h3 id="创建ghost安装目录"><a href="#创建ghost安装目录" class="headerlink" title="创建ghost安装目录"></a>创建ghost安装目录</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">sudo mkdir -p /var/www/ghost</div></pre></td></tr></table></figure><h3 id="修改目录的权限"><a href="#修改目录的权限" class="headerlink" title="修改目录的权限"></a>修改目录的权限</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">sudo chown ghost:ghost /var/www/ghost</div></pre></td></tr></table></figure><h3 id="进入到创建的目录"><a href="#进入到创建的目录" class="headerlink" title="进入到创建的目录"></a>进入到创建的目录</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="built_in">cd</span> /var/www/ghost</div></pre></td></tr></table></figure><h3 id="安装ghost并指定sqlite3为数据库"><a href="#安装ghost并指定sqlite3为数据库" class="headerlink" title="安装ghost并指定sqlite3为数据库"></a>安装ghost并指定sqlite3为数据库</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">sudo ghost install --db=sqlite3</div></pre></td></tr></table></figure><h3 id="配置nginx"><a href="#配置nginx" class="headerlink" title="配置nginx"></a>配置nginx</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">yes</div></pre></td></tr></table></figure><h3 id="配置SSL"><a href="#配置SSL" class="headerlink" title="配置SSL"></a>配置SSL</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">no</div></pre></td></tr></table></figure><h3 id="配置SYSTEMD"><a href="#配置SYSTEMD" class="headerlink" title="配置SYSTEMD"></a>配置SYSTEMD</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">yes</div></pre></td></tr></table></figure><h3 id="开启ghost"><a href="#开启ghost" class="headerlink" title="开启ghost"></a>开启ghost</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">yes</div></pre></td></tr></table></figure>]]></content>
     
@@ -100,8 +96,6 @@
       <category term="教程" scheme="http://vip16.github.io/categories/%E6%95%99%E7%A8%8B/"/>
     
       <category term="Ghost" scheme="http://vip16.github.io/categories/%E6%95%99%E7%A8%8B/Ghost/"/>
-    
-      <category term="入门" scheme="http://vip16.github.io/categories/%E6%95%99%E7%A8%8B/Ghost/%E5%85%A5%E9%97%A8/"/>
     
     
       <category term="Ghost" scheme="http://vip16.github.io/tags/Ghost/"/>
