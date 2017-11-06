@@ -3,6 +3,34 @@
     
     
     <entry>
+        <title><![CDATA[Markdown命令备忘]]></title>
+        <url>http://vip16.github.io/2017/11/06/Markdown%E5%91%BD%E4%BB%A4%E5%A4%87%E5%BF%98/</url>
+        <content type="html"><![CDATA[<p><a href="http://www.ituring.com.cn/article/23" target="_blank" rel="external">怎样使用Markdown</a></p>
+<p><a href="http://wowubuntu.com/markdown/basic.html" target="_blank" rel="external">简明版 Markdown 语法说明(简体中文版)</a></p>
+]]></content>
+        
+        <categories>
+            
+            <category> 教程 </category>
+            
+            <category> Markdown </category>
+            
+            <category> 备忘 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> Markdown </tag>
+            
+            <tag> 语法 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
         <title><![CDATA[Hexo命令备忘]]></title>
         <url>http://vip16.github.io/2017/11/06/Hexo%E5%91%BD%E4%BB%A4%E5%A4%87%E5%BF%98/</url>
         <content type="html"><![CDATA[<h3 id="新建"><a href="#新建" class="headerlink" title="新建"></a>新建</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">hexo new [layout] &lt;title&gt;</div></pre></td></tr></table></figure>

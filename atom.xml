@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://vip16.github.io/"/>
-  <updated>2017-11-06T09:16:05.612Z</updated>
+  <updated>2017-11-06T09:24:32.448Z</updated>
   <id>http://vip16.github.io/</id>
   
   <author>
@@ -15,6 +15,38 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Markdown命令备忘</title>
+    <link href="http://vip16.github.io/2017/11/06/Markdown%E5%91%BD%E4%BB%A4%E5%A4%87%E5%BF%98/"/>
+    <id>http://vip16.github.io/2017/11/06/Markdown命令备忘/</id>
+    <published>2017-11-06T09:22:05.000Z</published>
+    <updated>2017-11-06T09:24:32.448Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="http://www.ituring.com.cn/article/23" target="_blank" rel="external">怎样使用Markdown</a></p><p><a href="http://wowubuntu.com/markdown/basic.html" target="_blank" rel="external">简明版 Markdown 语法说明(简体中文版)</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;a href=&quot;http://www.ituring.com.cn/article/23&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;怎样使用Markdown&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://wowubuntu.com/markd
+      
+    
+    </summary>
+    
+      <category term="教程" scheme="http://vip16.github.io/categories/%E6%95%99%E7%A8%8B/"/>
+    
+      <category term="Markdown" scheme="http://vip16.github.io/categories/%E6%95%99%E7%A8%8B/Markdown/"/>
+    
+      <category term="备忘" scheme="http://vip16.github.io/categories/%E6%95%99%E7%A8%8B/Markdown/%E5%A4%87%E5%BF%98/"/>
+    
+    
+      <category term="Markdown" scheme="http://vip16.github.io/tags/Markdown/"/>
+    
+      <category term="语法" scheme="http://vip16.github.io/tags/%E8%AF%AD%E6%B3%95/"/>
+    
+  </entry>
   
   <entry>
     <title>Hexo命令备忘</title>
